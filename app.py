@@ -20,7 +20,7 @@ JOBS=[
   "id":3,
   "title": "Software Engineer-SDE 1",
   "location": "Banglore,India",
-  "salary": "Rs. 25,00,000"
+  "salary": "Rs. 50,00,000"
 },
   
 {
